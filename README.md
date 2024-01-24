@@ -1,4 +1,5 @@
-# Brincando-com-o-Terminal
+# Linux Things
+
 Repositório de Scripts Bash, documentação de exemplos de comandos, instalação de Openbox em Debian Minimal.
 
 
